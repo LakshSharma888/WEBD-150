@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    float:left;
+    align-items: center;
+    text-align: center;
+}
+nav{
+    background-color:rgb(36, 13, 13);
+    overflow: hidden;
+}
+nav a:hover{
+    color: blue;
+}
+nav a:visited{
+    color:yellow;}
+img {
+    width: 250px;
+    height: 150px;
+    border-radius: 8px;
+    margin-left: 120px;
+    padding: 1px;
+}
+nav button{
+    border: 8px;
+    margin-top: 20px;
+
+}
